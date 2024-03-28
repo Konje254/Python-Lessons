@@ -9,6 +9,7 @@
 """
 
 lst = []
+lst2 = []
 for i in [10, 20, 30, 40]:
     lst.append(i)
 print(lst)
